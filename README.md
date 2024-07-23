@@ -10,9 +10,7 @@ This repository contains the code for a one-page website detailing the features,
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Demo
 
@@ -26,18 +24,6 @@ You can view a live demo of the site [here](#).
 - Detailed sections for features, pricing, testimonials, and contact
 - Simple form submission alert
 
-## Installation
-
-To get a local copy up and running, follow these simple steps:
-
-1. **Clone the repo**
-    ```sh
-    git clone https://github.com/your_username/shopify-dummy.git
-    ```
-2. **Navigate to the project directory**
-    ```sh
-    cd shopify-dummy
-    ```
 
 ## Usage
 
