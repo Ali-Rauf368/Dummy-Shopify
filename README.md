@@ -13,7 +13,7 @@ This repository contains the code for a one-page website detailing the features,
 
 ## Demo
 
-You can view a live demo of the site [here](#).
+You can view a live demo of the site https://ali-rauf368.github.io/Dummy-Shopify/.
 
 ## Features
 
