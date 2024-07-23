@@ -7,7 +7,6 @@ This repository contains the code for a one-page website detailing the features,
 
 - [Demo](#demo)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 
